@@ -8,4 +8,4 @@ During my college experience, I have started building my skills in Python, data 
 
 These experiences have helped me see how data science can be used in areas outside of just numbers and statistics. I am interested in continuing to learn about data analysis, artificial intelligence, and machine learning while gaining more hands-on experience.
 
-My goal is to build a career where I can use data and technology to work on real-world problems. This portfolio will document what I learn throughout my data science coursework and the projects I work on along the way.
+My goal is to build a career where I can use data and technology to work on real-world problems. 
