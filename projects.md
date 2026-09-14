@@ -39,15 +39,25 @@ The analysis included:
 
 ### Key Findings
 
-Previous class failures showed the clearest relationship with final math grades. Students with more previous failures generally had lower average final grades.
+### Visualizations
 
-Study time showed a small positive relationship with final grades. Students who reported more study time generally had slightly higher average grades, but the difference between study-time groups was not large.
+#### Study Time and Final Grade
 
-Absences showed very little linear relationship with final grade in this dataset.
+![Average Final Math Grade by Study Time](study_time_grade.png)
 
-The linear regression model had an R² of approximately **0.03**, showing that these three variables alone explained only a small amount of the variation in final grades.
+Students who reported more study time generally had slightly higher final grades, although the differences between groups were relatively small.
 
-For classification, logistic regression achieved approximately **73.4% accuracy**, while the decision tree achieved approximately **75.9% accuracy**. The decision tree performed slightly better.
+#### Absences and Final Grade
+
+![Final Math Grade vs. Number of Absences](absences_grade.png)
+
+The relationship between absences and final grades was very weak in this dataset. The points are widely spread, and the correlation was approximately 0.03.
+
+#### Previous Failures and Final Grade
+
+![Average Final Math Grade by Previous Class Failures](failures_grade.png)
+
+Previous class failures showed the clearest pattern. Students with more previous failures generally had lower average final grades.
 
 ### Limitations
 
