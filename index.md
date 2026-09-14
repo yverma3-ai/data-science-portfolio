@@ -18,7 +18,7 @@ My goal is to continue building my experience in data science and eventually wor
 
 ## Resume
 
-[View My Resume](resume.pdf)
+[View My Resume](UNC_Charlotte_Resume_YV.pdf)
 
 ## LinkedIn
 
