@@ -5,7 +5,7 @@ UNC Charlotte
 
 ## About Me
 
-Hi! I'm Yana, a Data Science student at UNC Charlotte with a minor in Artificial Intelligence. I'm interested in using data and technology to solve real-world problems and better understand how data can be used to make decisions.
+I am a Data Science student at UNC Charlotte with a minor in Artificial Intelligence. I'm interested in using data and technology to solve real-world problems and better understand how data can be used to make decisions.
 
 Through my coursework, projects, and hackathons, I have been developing my skills in Python, data analysis, and data visualization. I enjoy learning new technical skills and working on projects that connect technology with real-world topics.
 
