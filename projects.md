@@ -160,7 +160,7 @@ I would also compare the mathematics and Portuguese datasets to see whether the 
 
 ### Code
 
-[View the Full Jupyter Notebook](https://github.com/yverma3-ai/data-science-portfolio/blob/main/student_performance_analysis.ipynb)
+[View the Full Jupyter Notebook](https://nbviewer.org/github/yverma3-ai/data-science-portfolio/blob/main/student_performance_analysis.ipynb)
 
 ### Dataset Source
 
