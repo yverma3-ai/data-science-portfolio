@@ -6,6 +6,6 @@ My name is Yana Verma, and I am a Data Science student at UNC Charlotte with a m
 
 During my college experience, I have started building my skills in Python, data analysis, and data visualization. I have also had the opportunity to work on projects and participate in hackathons. For example, I worked on TrialVision during the Duke AI Hackathon, a project focused on helping medical professionals evaluate clinical trial ideas. I also worked on Bloom during the Fidelity Hackathon, a financial literacy app designed to help college students learn about managing money.
 
-These experiences have helped me see how data science can be used in areas outside of just numbers and statistics. I am interested in continuing to learn about data analysis, artificial intelligence, and machine learning while gaining more hands-on experience.
+These experiences have helped me see how data science can be used in areas outside of just numbers and statistics. I enjoy learning how data can be turned into useful information and how technology can be used to solve problems in different fields. I am interested in continuing to learn about data analysis, artificial intelligence, and machine learning while gaining more hands-on experience.
 
-My goal is to build a career where I can use data and technology to work on real-world problems. 
+My goal is to build a career where I can use data and technology to work on real-world problems. I hope to continue developing my technical skills through coursework, projects, and future opportunities. This portfolio will allow me to document my progress and share the projects I create as I continue my journey into data science.
