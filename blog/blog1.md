@@ -1,4 +1,4 @@
-# Blog 1 
+# My Journey Into Data Science
 What is Data Science to Me?
 
 
