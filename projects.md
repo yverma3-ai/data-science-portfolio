@@ -277,7 +277,7 @@ In the future, the project could be improved by using a larger and more balanced
 
 The complete Python code and Jupyter Notebook used for this project are available through my GitHub portfolio repository. The notebook contains the data preparation, exploratory analysis, model development, evaluation, visualizations, and interpretation used throughout this project.
 
-**Jupyter Notebook:** [View the complete analysis](food_macro_analysis.ipynb)
+**Jupyter Notebook:** [View the complete analysis](https://nbviewer.org/github/yverma3-ai/data-science-portfolio/blob/main/food_macro_analysis.ipynb)
 
 #### AI Usage Disclosure
 
